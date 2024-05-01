@@ -1,7 +1,7 @@
 ## Hello there, I'm Nael 👋
 
 👨‍💻 Actually student at 42-Perpignan<br><br>
-[![nfradet's 42 stats](https://badge.mediaplus.ma/darkgray/nfradet?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![nfradet's 42 stats](https://badge.mediaplus.ma/darkgray/nfradet?1337Badge=off&UM6P=off)](https://github.com/fradetn))
 
 ## My skills
 
@@ -15,7 +15,7 @@
 
 ## Some stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/fradet/github-readme-stats)<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fradetn&layout=compact)
 **fradetn/fradetn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
