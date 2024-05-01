@@ -1,6 +1,6 @@
 ## Hello there, I'm Nael 👋
 
-👨‍💻 Actually student at 42-Perpignan
+👨‍💻 Actually student at 42-Perpignan<br>
 [![nfradet's 42 stats](https://badge.mediaplus.ma/darkgray/nfradet?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## My skills
@@ -15,7 +15,7 @@
 
 ## Some stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fradetn&hide=contribs,prs)
 <!--
 **fradetn/fradetn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
