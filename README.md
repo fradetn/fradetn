@@ -1,7 +1,7 @@
 ## Hello there, I'm Nael 👋
 
 👨‍💻 Actually student at 42-Perpignan<br><br>
-[![nfradet's 42 stats](https://badge.mediaplus.ma/darkgray/nfradet?1337Badge=off&UM6P=off)](https://github.com/fradetn))
+[![nfradet's 42 stats](https://badge.mediaplus.ma/darkgray/nfradet?1337Badge=off&UM6P=off)](https://github.com/fradetn)
 
 ## My skills
 
