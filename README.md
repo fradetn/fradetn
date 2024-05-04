@@ -16,4 +16,3 @@
 ## Some stats
 
 [![wakatime](https://wakatime.com/badge/user/5fafad61-15bf-4ebe-98d8-242100d70084/project/8e73375f-485b-403f-b89c-9b6dc6e371f3.svg)](https://github.com/asangerm/Minishell)
-<img src="https://wakatime.com/share/@5fafad61-15bf-4ebe-98d8-242100d70084/ffaa8f4c-71c0-4160-8c4c-9223ae970dea.svg" width="500">
