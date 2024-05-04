@@ -15,4 +15,5 @@
 
 ## Some stats
 
-<figure><embed src="https://wakatime.com/share/@5fafad61-15bf-4ebe-98d8-242100d70084/ffaa8f4c-71c0-4160-8c4c-9223ae970dea.svg"></embed></figure>
+<img src="https://wakatime.com/share/@5fafad61-15bf-4ebe-98d8-242100d70084/ffaa8f4c-71c0-4160-8c4c-9223ae970dea.svg"></img>
+
