@@ -16,3 +16,4 @@
 ## Some stats
 
 [![wakatime](https://github-readme-stats.vercel.app/api/top-langs/?username=fradetn&theme=tokyonight)](https://github.com/fradetn)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fradetn&theme=dark&hide_longest_streak=true)](https://github.com/fradetn)
