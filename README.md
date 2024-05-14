@@ -5,7 +5,7 @@
 
 ## My skills
 
-![c](https://skillicons.dev/icons?i=c,js,html,css,py,vscode&perline=6)
+![c](https://skillicons.dev/icons?i=c,py,java,js,html,css,php,mysql,vscode&perline=6)
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
