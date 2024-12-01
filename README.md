@@ -5,7 +5,7 @@
 
 ## My skills
 
-![c](https://skillicons.dev/icons?i=c,py,java,js,html,css,php,mysql,github,vscode&perline=15)
+![c](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,php,mysql,github,vscode&perline=15)
 
 ## Some stats
 
